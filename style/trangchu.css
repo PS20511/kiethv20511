@@ -140,6 +140,9 @@ footer{
     height: 35px;
     background-color: red;
     line-height: 35px;
+    position: fixed;
+    z-index: 99999999;
+    bottom: 0;
 }
 footer ul li{
     list-style: none;
