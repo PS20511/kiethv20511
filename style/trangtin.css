@@ -55,7 +55,7 @@ header audio{
 }
 article{
     width: 1180px;
-    height: 1400px;
+    height: 1500px;
     margin-bottom: 10px;
 }
 article img{
@@ -94,4 +94,10 @@ article img:hover{
 }
 strong{
     font-size: 20px;
+}
+body{
+    background-image: url(../anh/nen1.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
 }

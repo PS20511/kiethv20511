@@ -109,3 +109,9 @@
     margin-top: 80px;
     height: 30px;
   }
+  body{
+    background-image: url(../anh/nen1.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
